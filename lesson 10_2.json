@@ -1,0 +1,37 @@
+{
+   "lesson":{
+      "title":"name",
+      "description":" ",
+      "required":"yes",
+      "tasks":[
+         {
+            "title":"task",
+            "questions":[
+               {
+                  "quest":"text",
+                  "answer":"text"
+               },
+               {
+                  "quest":"text",
+                  "answer":"text"
+               }
+            ],
+            "required":"yes"
+         },
+         {
+            "title":"task",
+            "questions":[
+               {
+                  "quest":"text",
+                  "answer":"text"
+               },
+               {
+                  "quest":"text",
+                  "answer":"text"
+               }
+            ],
+            "required":"yes"
+         }
+      ]
+   }
+}
